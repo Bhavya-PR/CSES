@@ -1,4 +1,4 @@
-n = int(input("enter the value of n: "))
+n = int(input())
 res =[]
 res.append(n)
 
